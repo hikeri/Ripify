@@ -1,4 +1,4 @@
-# Github Restrictive License v1.0
+# Github Restrictive License v1.1
 
 © Copyright [Hikeri]()
 
@@ -6,7 +6,7 @@
 
 The creators of this Work (“The Licensor”) grant permission to any person, group, or legal entity that doesn’t violate the prohibitions below (“The User”), to do the following with the Work:
 
-- Download and use the Work only in its original form as it is, without modification or redistribution.
+- Download and use the Work only in its original form as it is, without modification or redistribution, for non-commercial purposes only.
 
 ## Obligations
 
