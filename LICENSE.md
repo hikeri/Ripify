@@ -1,6 +1,6 @@
 # Github Restrictive License v1.0
 
-© Copyright [Hikeri]
+© Copyright [Hikeri]()
 
 ## Permissions
 
