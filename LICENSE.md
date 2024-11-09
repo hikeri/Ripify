@@ -19,7 +19,7 @@ The creators of this Work (“The Licensor”) grant permission to any person, g
 - The Work must not be redistributed or shared in any modified form.
 - The Work must not be used in any commercial or non-commercial context outside of personal or internal use, unless explicitly authorized by the Licensor.
 
-If the Work is downloaded from a source other than [github.com](https://github.com) or any other sites related to "Microsoft Corporation" or "Github", it will automatically be governed by the **🏳️‍🌈 Opinionated Queer License v1.2**, if the Github Restrictive License v1.2 was not violated when uploading to third-party resources.
+If the Work is downloaded from a source other than [github.com](https://github.com) or any other sites related to "Microsoft Corporation" or "Github", it will automatically be governed by the **🏳️‍🌈 Opinionated Queer License v1.2**, if the Github Restrictive License v1.2 was not violated when uploading to resources not associated with "Github" or "Microsoft corporation".
 
 ## Trademark Disclaimer
 
