@@ -1,3 +1,4 @@
+<img alt="Get it on Codeberg" src="https://get-it-on.codeberg.org/get-it-on-blue-on-white.png" height="60">
 # Please refrain from using this version and download the codeberg version! This version has terrible design, obfuscated code and not the best license
 Codeberg version here: https://codeberg.org/hikeri/Ripify
 
